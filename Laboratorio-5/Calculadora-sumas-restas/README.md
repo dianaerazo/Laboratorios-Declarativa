@@ -1,6 +1,6 @@
 # Calculadora de sumas y restas con Prolog
 
-Proyecto Java Swing + tuProlog basado en la estructura del laboratorio.
+Diana Alejandra Erazo Pérez 00149823
 
 ## Requisitos
 - IntelliJ IDEA
